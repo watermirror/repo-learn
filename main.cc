@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hello, the God's world!" << std::endl;
+  std::cout << "Hello, the world under the God!" << std::endl;
 }
